@@ -1,0 +1,12 @@
+body {
+	background-image: url("../images/background.png");
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.dropdown:hover .dropdown-menu {
+	display:block;
+}
+
+.navbar-xs .navbar-footer .navbar { min-height:28px; height: 28px; }
+.navbar-xs .navbar-footer .navbar .navbar-brand{ padding: 0px 12px;font-size: 16px;line-height: 28px; }
+.navbar-xs .navbar-footer .navbar .navbar-nav > li > a {  padding-top: 0px; padding-bottom: 0px; line-height: 28px; }
